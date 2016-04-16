@@ -1,3 +1,13 @@
+# Script: DesktopCleaner.py
+
+# Author: Roushan Mishra
+
+# Version: 1.0
+# Date: 16-Apr-16
+
+# Description: This python code moves files/directories from the Desktop to a specific folder on Desktop
+
+
 import shutil
 import os
 
